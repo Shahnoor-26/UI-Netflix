@@ -23,7 +23,7 @@
 /* Posters */
 .poster {
     height: 700px;
-    background-image: url(./assets/images/poster.jpg);
+    background-image: url(./poster.jpg);
     background-size: cover;
     box-sizing: border-box;
     display: grid;
@@ -43,7 +43,7 @@ nav {
 .logo {
     height: 40px;
     width: 150px;
-    background-image: url(./assets/images/logo.svg);
+    background-image: url(./logo.svg);
     background-repeat: no-repeat;
     background-position: center;
 }
